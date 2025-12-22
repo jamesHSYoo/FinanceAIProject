@@ -89,6 +89,7 @@ pinecone = "5.*"
 wikipedia = "1.*"
 scikit-learn = "1.*"
 jq = "^1.10.0"
+numpy = "^2.4.0"
 
 [build-system]
 requires = ["poetry-core"]
